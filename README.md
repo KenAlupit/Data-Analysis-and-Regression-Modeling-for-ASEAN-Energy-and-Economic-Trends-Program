@@ -1,0 +1,2 @@
+# Data-Analysis-and-Regression-Modeling-for-ASEAN-Energy-and-Economic-Trends-Program
+Explore ASEAN countries' energy consumption, GDP, and correlations using Python. Visualize data with box plots and heatmaps, identify high correlations, and perform linear regression to analyze relationships between variables. Interact with the program to select and predict economic outcomes based on energy metrics.
